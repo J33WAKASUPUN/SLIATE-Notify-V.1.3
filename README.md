@@ -198,12 +198,13 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **J33WAKASUPUN**
 - GitHub: [@J33WAKASUPUN](https://github.com/J33WAKASUPUN)
+
 **Thisara404**
-- GitHub: [@J33WAKASUPUN](https://github.com/Thisara404)
+- GitHub: [@Thisara404](https://github.com/Thisara404)
 
 ## 💖 Support
 
